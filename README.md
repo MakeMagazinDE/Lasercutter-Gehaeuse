@@ -8,7 +8,7 @@ Maker Media GmbH
 
 **Offene Lasercutter und -gravierer werden immer erschwinglicher. Doch ohne Gehäuse bergen sie ein Risiko für die Augen und Atemwege. Eine selbstgebaute Einhausung schafft hier Abhilfe und ermöglicht sichereres Arbeiten.**
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+![Aufmacherbild aus dem Heft](./doc/lasercutter_quer.jpg)
 
 Hier findet ihr die Maße und Materialliste des Gehäuses aus dem Artikel.
 
