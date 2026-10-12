@@ -4,18 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Lasercutter-Gehäuse
 
-## Erklärende Unterzeile (optional)
-
-**Vorspann aus dem Heft**
+**Offene Lasercutter und -gravierer werden immer erschwinglicher. Doch ohne Gehäuse bergen sie ein Risiko für die Augen und Atemwege. Eine selbstgebaute Einhausung schafft hier Abhilfe und ermöglicht sichereres Arbeiten.**
 
 ![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
 
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
+Hier findet ihr die Maße und Materialliste des Gehäuses aus dem Artikel.
 
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
-
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/26](https://www.heise.de/select/make/2026/6)**.
