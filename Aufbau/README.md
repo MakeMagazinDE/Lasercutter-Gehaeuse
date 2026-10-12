@@ -1,4 +1,4 @@
-| Teil | Abmessung (in mm) |
+| Teil | Abmessung (in mm) | 
 | -------- | ----------------- |
 | Boden | 1.200 x 700 |
 | Seitenwand | 440 x 700 |
@@ -13,3 +13,6 @@
 | Schublade (Front) | 607 x 50 |
 | Schutzfenster (groß) | 500 x 300 |
 | Schutzfenster (klein) | 500 x 80 |
+
+![Ansicht von oben](./Aufbau%20der%20Grundplatte.png)
+![Ansicht von der Seite](./Seitenwand.png)
